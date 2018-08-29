@@ -8,4 +8,4 @@
 - 用抽象构建框架，用实现扩展细节。
 - 优点：提高软件系统的可复用性及可维护性。
 - 开闭原则coding
-- ![image-20180829201806175](/var/folders/_1/gf77w3n11bj92qcw11zfvhh40000gn/T/abnerworks.Typora/image-20180829201806175.png)
+- ![开闭原则](/Users/zhuanglijuan/github/DesignPattern/imgs/openclose.png)
